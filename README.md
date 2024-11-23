@@ -1,4 +1,4 @@
-# Sistema de Estacionamento - Liffey Pedra Branca 🚗🏍️
+# Sistema de Estacionamento  🚗🏍️
 
 Este é um sistema backend para gerenciar o estacionamento do Pub Liffey na Pedra Branca. O sistema registra a entrada e saída de veículos, calcula tarifas e fornece informações sobre ocupação e receita.
 
